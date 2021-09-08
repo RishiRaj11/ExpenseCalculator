@@ -26,13 +26,6 @@ function App() {
       date: new Date(2021, 5, 12),
     },
   ];
-  /*
-    return  React.createElement(
-      'div',{},React.createElement('h2',{},"Let's start"),
-      React.createElement(Expenses,{items:expenses})
-    );
-    */
-  //Above return Statement and below both work same but below is jsx code i.e easy to read
   const [expenses, setExpenses] = useState(DUMMY_EXPENSES);
   const addExpenseHandler = (expense) => {
     //console.log(expense);
@@ -43,7 +36,7 @@ function App() {
   }
   return (
     <div>
-      <h2>Let's  start</h2>
+      
       <NewExpense onAddExpense={addExpenseHandler} />
       <Expenses items={expenses} />
     </div>
