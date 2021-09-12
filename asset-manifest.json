@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ExpenseCalculator/static/css/main.76c2d134.chunk.css",
-    "main.js": "/ExpenseCalculator/static/js/main.6bd97fd1.chunk.js",
-    "main.js.map": "/ExpenseCalculator/static/js/main.6bd97fd1.chunk.js.map",
+    "main.js": "/ExpenseCalculator/static/js/main.fec56998.chunk.js",
+    "main.js.map": "/ExpenseCalculator/static/js/main.fec56998.chunk.js.map",
     "runtime-main.js": "/ExpenseCalculator/static/js/runtime-main.34f5f5f0.js",
     "runtime-main.js.map": "/ExpenseCalculator/static/js/runtime-main.34f5f5f0.js.map",
     "static/js/2.9f1809b6.chunk.js": "/ExpenseCalculator/static/js/2.9f1809b6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.34f5f5f0.js",
     "static/js/2.9f1809b6.chunk.js",
     "static/css/main.76c2d134.chunk.css",
-    "static/js/main.6bd97fd1.chunk.js"
+    "static/js/main.fec56998.chunk.js"
   ]
 }
